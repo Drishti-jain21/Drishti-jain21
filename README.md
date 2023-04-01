@@ -11,7 +11,7 @@
 
 - 👨‍💻 I'm a CS Sophomore at IGDTUW
 - 🌱 I’m currently learning and exploring **Three.js and AR/VR**
-- 👯 Always up for a fruitful talk
+- 👯 Always up for a discussion
 - ⚡ I am always up to exploring something!
 - 📚 Fun Fact: I have two diplomas in French
 
@@ -57,7 +57,6 @@
 ### 📈 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Drishti-jain21&show_icons=true&theme=radical" alt="github stats" width="48%" align="left">
-
 
 ---
 
