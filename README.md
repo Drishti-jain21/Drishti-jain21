@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm Drishti Jain</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+World+!+%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+World+!+%2C+Welcome+to+my+Github+Profile.)](https://git.io/typing-svg)
 
 ---
 ### 👧 About Me
@@ -23,6 +23,7 @@
 - OSS Cohort #4 Mentee @Codess.Cafe
 - Harvard WEAmplify Scholar'23
 
+---
 
 ### :hammer_and_wrench: Languages and Tools 
 
@@ -32,7 +33,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>&nbsp;
-    <img src="https://images.app.goo.gl/9dznEwcCF77HUyUH8" alt="Three.js" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>&nbsp;
 
 </div>
 
@@ -53,10 +54,9 @@
 
 ---
 
-## 📈 GitHub Statistics
+### 📈 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Drishti-jain21&show_icons=true&theme=radical" alt="github stats" width="48%" align="left">
-
 
 
 ---
