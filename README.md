@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning and exploring **Three.js and AR/VR**
 - 👯 Always up for a discussion
 - ⚡ I am always up to exploring something!
+- 🎥 I even started a Youtube channel (haven't uploaded anything new for sometime) ![YouTube channel](https://www.youtube.com/channel/UC3wW94KMF-iC9PwcHkCRRVw)
 - 📚 Fun Fact: I have two diplomas in French
 
 --- 
