@@ -61,7 +61,3 @@
 
 ---
 
-### 👀 Visitor Info
-
-![Hitcount](https://komarev.com/ghpvc/?username=Drishti-jain21&color=57bcd9)
-
