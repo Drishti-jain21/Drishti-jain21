@@ -37,6 +37,7 @@
 # 🎞️ Projects:
 
 1. 3D Text Animations - https://drishti-alpha.vercel.app/
+2. Rigid Car Animation (using Cannon-es) - https://car-ivory.vercel.app/
 
 ---
 
