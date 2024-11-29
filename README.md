@@ -5,17 +5,22 @@
 ---
 ### 👧 About Me
 
-- 👨‍💻 I'm a CS Sophomore at IGDTUW
-- 🌱 I’m currently learning and exploring **Three.js**
+- 👨‍💻 B.Tech in CSE from IGDTUW
+- 🌱 I’m currently learning and exploring different technologies/languages/frameworks, like *Three.js*, *Flutter*, *Go*
 - 👯 Always up for a discussion
 - ⚡ I am always up to exploring something!
-- 🎥 I even started a Youtube channel (haven't uploaded anything new for sometime) ![YouTube channel](https://www.youtube.com/channel/UC3wW94KMF-iC9PwcHkCRRVw)
 - 📚 Fun Fact: I have two diplomas in French
 
 --- 
 
 ### 🤩 Currently I am
 
+- SDE-I @Zomato
+- Working on building an automated attendance management system
+---
+### 🤩 Previously I was
+
+- SWE Intern'24 @Microsoft
 - Replit Rep
 - OSS Cohort #4 Mentee @Codess.Cafe
 - Harvard WEAmplify Scholar'23
